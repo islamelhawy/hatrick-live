@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-GITHUB-USERNAME.github.io/hattrick-live/sitemap.xml
+Sitemap: https://islamelhawy.github.io/hatrick-live/sitemap.xml
